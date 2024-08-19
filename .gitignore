@@ -21,3 +21,53 @@ pnpm-debug.log*
 *.njsproj
 *.sln
 *.sw?
+# Build output
+dist/
+build/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Dependency directories
+jspm_packages/
+
+# Optional npm cache directory
+.npm/
+
+# Optional eslint cache
+.eslintcache
+
+# IDE directories
+.vscode/
+.idea/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+.env.*.local
+
+# Yarn integrity file
+.yarn-integrity
+
+# Local environment config
+.local.env
+
+# IDE-specific files
+*.suo
+*.ntvs_analysis.dat
+*.njsproj
+*.suo
+*.sw?
+*.sublime-project
+*.sublime-workspace
+
+# VS Code settings folder
+.vscode/
+
+# MacOS Finder specific
+*.DS_Store
